@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "ibrextras",
+	"version": "${version}",
+	"name": "IBRExtras",
+	"description": "Some nice additions to your usual Boat Racing Experience!",
+	"authors": [
+		"Nopey"
+	],
+	"contact": {
+		"homepage": "https://nopey.de/",
+		"sources": "https://nopey.de/source/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/ibrextras/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"nopey.ibrextras.IBRExtras"
+		],
+		"modmenu": [
+			"nopey.ibrextras.MenuInteg"
+		]
+	},
+	"mixins": [
+		"ibrextras.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

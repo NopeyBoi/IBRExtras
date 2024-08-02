@@ -1,0 +1,19 @@
+{
+  "nopey.ibrextras.config.mainscreen.title": "IBRExtras Configs",
+  "nopey.ibrextras.config.hudscreen.title": "Pick your HUD Elements and move them around",
+  "nopey.ibrextras.config.elementscreen.title": "Configure your new HUD Element",
+  "nopey.ibrextras.button.enabled": "Enabled: ",
+  "nopey.ibrextras.button.back": "Back",
+  "nopey.ibrextras.button.positioning": "Edit HUD Elements",
+  "nopey.ibrextras.button.add": "Add HUD Element",
+  "nopey.ibrextras.button.stop": "Exit",
+  "nopey.ibrextras.button.addcustom": "Add Custom Text Element",
+  "nopey.ibrextras.button.addspecial": "Add Special HUD Element",
+  "nopey.ibrextras.on": "On",
+  "nopey.ibrextras.off": "Off",
+  "nopey.ibrextras.tooltip.enabled": "Disable the whole HUD.",
+  "nopey.ibrextras.tooltip.positioning": "I like to move it, move it!",
+  "nopey.ibrextras.tooltip.textinfo": "Use variables to get extra information. Examples:\n$speed - Speed in km/h\n$speed:m/s - Speed in m/s\n$speed:mph - Speed in mph\n$speed:kt - Speed in knot\n$name - Your username\n$ping - duh\n$angle - Turn angle\n$g - g force\n$fps - also duh\n$inertia - Rotational Inertia",
+  "nopey.ibrextras.key.enable": "Hide / Show HUD",
+  "nopey.ibrextras.category": "IBRExtras"
+}

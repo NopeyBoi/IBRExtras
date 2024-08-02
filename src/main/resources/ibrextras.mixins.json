@@ -1,0 +1,12 @@
+{
+	"required": false,
+	"package": "nopey.ibrextras.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+		"InGameHudMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
